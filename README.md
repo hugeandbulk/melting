@@ -6,3 +6,5 @@ Summary: MELTING computes the enthalpy and entropy of an oligonucleotide duplex 
 Availability: MELTING is available for several platforms (http://www.pasteur.fr/recherche/unites/neubiomol/meltinghome.html) and is accessible via a www server (http://bioweb.pasteur.fr/seqanal/interfaces/melting.html).
 
 Contact: nl223@cus.cam.ac.uk
+
+https://www.mclab.com/newtools/tm.htmL
