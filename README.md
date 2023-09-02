@@ -8,3 +8,7 @@ Availability: MELTING is available for several platforms (http://www.pasteur.fr/
 Contact: nl223@cus.cam.ac.uk
 
 https://www.mclab.com/newtools/tm.htmL
+
+1 ग्राम डीएनए में कितना डाटा होता है?
+
+1 ग्राम डीएनए करीब 215 पेटाबाइट यानी 21.5 करोड़ गीगाबाइट (21.5 करोड़ GB) डेटा स्टोर करके रख सकता है. यह डेटा हजारों सालों तक रख सकता है.
